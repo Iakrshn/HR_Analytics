@@ -7,7 +7,7 @@ En un mercado laboral competitivo, la rotación de personal (*Attrition*) repres
 
 ## 2. La Pregunta de Negocio
 El dashboard busca responder:
-> **"¿Qué factores (carga laboral, salario, estancamiento profesional) son los principales detonantes de la fuga de talento y qué segmentos de empleados están en mayor riesgo hoy?"**
+> **"¿Qué factores (carga laboral, salario) son los principales detonantes de la fuga de talento y qué segmentos de empleados están en mayor riesgo hoy?"**
 
 ## 3. Fuente de Datos
 Se utilizó el dataset público **IBM HR Analytics Employee Attrition**.
@@ -36,7 +36,7 @@ El panel visual sigue una narrativa de tres niveles:
 ## 6. Hallazgos Clave (Insights)
 * **Fuga de Talento Joven:** El segmento **Junior (<30 años)** presenta la tasa de rotación más crítica (**25.4%**), duplicando la de los niveles Senior. Esto sugiere problemas en el *onboarding* o falta de planes de carrera atractivos para las nuevas generaciones.
 * **Factor Burnout:** Existe una correlación directa con la carga laboral; los empleados que realizan horas extra tienen una tasa de renuncia del **30.5%**, frente al **10.4%** de quienes tienen jornada estándar.
-* **Áreas Críticas:** El departamento de Ventas y el rol de *"Sales Representative"* son los más vulnerables, lo que indica la necesidad urgente de revisar los esquemas de incentivos y compensación en esa área específica.
+* **Áreas Críticas:** El departamento Research & Development y el rol de *"Laboratory Technician"* son los más vulnerables, lo que indica la necesidad urgente de revisar los esquemas de incentivos y compensación en esa área específica.
 
 ---
 ### 🚀 Visualización del Dashboard
